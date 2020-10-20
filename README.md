@@ -47,7 +47,7 @@ Clarify and further concepts of finance within the FinOps scope.
 
 # Governance and Operations
 
-This SIG follows the [standard operating model](https://github.com/cncf/toc/blob/master/sigs/cncf-sigs.md#operating-model) provided by the TOC unless otherwise stated here.
+This SIG follows the [standard operating model](https://github.com/finopsfoundation/tac/blob/master/sigs/readme.md#operating-model) provided by the TOC unless otherwise stated here.
 
 # Operating Model
 
@@ -56,7 +56,7 @@ This SIG follows the [standard operating model](https://github.com/cncf/toc/blob
 - TOC Liaison: tbc
 - Chairs: tbc
 
-In accordance with the [elections and terms](https://github.com/cncf/toc/blob/master/sigs/cncf-sigs.md#elections) follow the [CNCF SIG definition](https://github.com/cncf/toc/blob/master/sigs/cncf-sigs.md#elections).
+In accordance with the [elections and terms](https://github.com/finopsfoundation/tac/blob/master/sigs/readme.md#elections)
 
 ## Communications
 
