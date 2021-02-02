@@ -1,12 +1,12 @@
 # FinOps Foundation SIG Finance
 
-Primary Authors: tbc
+Primary Authors: Mike Fuller & Joseph Daly
 
 Reviewed and Contributed to by: tbc
 
 # Introduction
 
-tbc
+SIG-Finance facilitates collaboration to discover and produce resources that enable adoption and maturation of FinOps best practices for practitioners who focus on Finance.
 
 # Mission Statement
 
@@ -19,7 +19,7 @@ tbc
 
 ## In Scope
 
-TBC
+The scope of SIG-Finance includes, but is not limited to the following areas:  effective financial controls that both enable value creation and protect the business from risk, how to create value-based metrics to demonstrate business impact, forecasting, assessing efficiency opportunities, and how to drive effective collaboration with engineering, business and procurement teams.
 
 ### Current FinOps Foundation Finance Working Groups
 
@@ -53,7 +53,7 @@ This SIG follows the [standard operating model](https://github.com/finopsfoundat
 
 ## Chairs:
 
-- TOC Liaison: tbc
+- TAC Liaison: Joseph Daly
 - Chairs: tbc
 
 In accordance with the [elections and terms](https://github.com/finopsfoundation/tac/blob/master/sigs/readme.md#elections)
